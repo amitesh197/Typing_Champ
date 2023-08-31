@@ -1,4 +1,4 @@
-Typing champ
+<h1>Typing champ</h1>
 
 A sentence will come up on the screen and you need to type these before they get out from the screen.
 Keep on typing the sentence and boost your score. 
